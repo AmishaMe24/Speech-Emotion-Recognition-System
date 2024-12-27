@@ -89,9 +89,6 @@ This project aims to revolutionize human-computer interaction by accurately iden
 ## Contributions
 Contributions are welcome! Please fork the repository and submit a pull request with enhancements or bug fixes.
 
-## License
-This project is licensed under the MIT License.
-
 ## Contact
 For any queries, feel free to reach out:
 - **Author:** Amisha Mehta
